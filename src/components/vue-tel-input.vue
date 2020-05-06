@@ -33,7 +33,7 @@
         </li>
       </ul>
     </div>
-    <input
+    <v-text-field
       ref="input"
       type="tel"
       v-model="phone"
